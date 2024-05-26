@@ -10,7 +10,7 @@ Dashboard Admin
 <img src="img/admin.jpeg" alt="">
 
 Halaman Keranjang Belanja
-<img src="img/keranjnag.jpeg" alt="">
+<img src="img/keranjang.jpeg" alt="">
 
 Dashboard Customer
 <img src="img/dashboard pembeli.jpeg" alt="">
