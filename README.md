@@ -1,7 +1,7 @@
 # DapoerMommiEra (Aplikasi Penjualan Makanan Online) Dengan PHP, MySQL dan Bootstrap 3
 
 Halaman Index
-<img src="assets/img/index.jpeg" alt="">
+<img src="img/index.jpeg" alt="">
 
 Halaman Customer
 ![gabar-cus](https://user-images.githubusercontent.com/5027795/53283125-146e0780-3774-11e9-9eec-7381388d600c.png)
